@@ -88,6 +88,7 @@ if($this->session->flashdata('success'))
 <h4 style="font-family:aria"> Submitted titles</h2>
 </div>
 </div>
+	<h1>updated code on git hub</h1>
 <div class="col-md-3">
 <div class="well dash-box">
 <h2 style="font-family:aria"><span class="glyphicon glyphicon-folder-open" aria-hidden="true"></span><br>0</h2>
